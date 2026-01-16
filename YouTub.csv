@@ -1,0 +1,59 @@
+video_id,channel_name,is_competitor,video_title,thumbnail_description,views,ctr,avg_watch_time_min,retention_30s,retention_1min,retention_50,upload_day,upload_time,video_length_min,content_type
+V01,MyChannel,0,I Tried Waking Up at 5AM for 7 Days,Shocked face bold text THIS CHANGED ME,82000,8.4,6.2,72,64,48,Monday,18:00,10,Vlog
+V02,MyChannel,0,Why Most People Fail at YouTube,Serious face red text HARD TRUTH,64000,9.1,5.1,68,60,42,Wednesday,20:00,9,Commentary
+V03,MyChannel,0,How YouTube Algorithm Really Works,Clean design arrow pointing to graph,110000,10.5,7.8,80,74,60,Saturday,11:00,12,Tutorial
+V04,MyChannel,0,I Uploaded Daily for 30 Days,Tired face yellow text EXHAUSTING,45000,7.2,3.9,55,48,30,Sunday,22:00,14,Vlog
+V05,MyChannel,0,This Thumbnail Trick Boosted Views,Bold arrow before after image,97000,11.2,6.9,78,70,57,Friday,19:00,11,Tutorial
+V06,MyChannel,0,Why My Last Video Failed,Confused face small text BIG MISTAKE,18000,6.1,2.8,42,35,18,Tuesday,23:30,8,Commentary
+V07,MyChannel,0,How Much YouTubers Really Earn,Shocked face green money icons,130000,12.0,8.2,83,76,65,Saturday,10:30,13,Explainer
+V08,MyChannel,0,I Copied a Viral Video Format,Split screen copied vs original,52000,8.9,4.5,60,52,35,Thursday,21:00,10,Experiment
+V09,MyChannel,0,Stop Making These Editing Mistakes,Angry face bold red STOP,76000,9.6,6.0,74,66,50,Friday,18:30,9,Tutorial
+V10,MyChannel,0,Why No One Clicks Your Videos,Plain thumbnail low contrast text,24000,5.4,2.5,40,32,15,Monday,23:45,7,Commentary
+
+V11,CompetitorA,1,I Gained 100k Subs in 3 Months,Smiling face big numbers 100K,310000,13.5,9.0,85,78,70,Saturday,09:00,14,CaseStudy
+V12,CompetitorA,1,How I Write Viral Titles,Bold text STEAL THIS,220000,14.2,7.5,82,74,63,Friday,17:00,11,Tutorial
+V13,CompetitorA,1,Daily Vlogging Ruined My Channel,Sad face text REGRET,90000,8.0,3.6,50,44,28,Sunday,21:30,15,Vlog
+V14,CompetitorA,1,This CTR Hack Is Insane,Big arrow red circle CTR,280000,15.1,8.7,88,81,72,Thursday,18:00,12,Explainer
+V15,CompetitorA,1,Why I Quit Long Videos,Minimal text BIG CHANGE,120000,9.4,4.1,58,50,34,Tuesday,20:00,16,Commentary
+
+V16,CompetitorB,1,I Posted at the Wrong Time,Dark thumbnail text ALGORITHM KILLED IT,26000,6.0,2.2,38,30,14,Monday,02:00,9,Vlog
+V17,CompetitorB,1,Shorts vs Long Videos,Split image shorts vs long,140000,11.8,6.3,76,69,52,Wednesday,12:00,10,Analysis
+V18,CompetitorB,1,This Hook Keeps Viewers Watching,Countdown timer bold hook text,195000,13.0,8.1,84,78,68,Saturday,10:00,12,Tutorial
+V19,CompetitorB,1,Why Your Retention Drops Fast,Graph dropping red arrow,88000,9.9,5.0,65,58,40,Friday,19:30,11,Explainer
+V20,CompetitorB,1,I Used Clickbait for a Week,Exaggerated shocked face,102000,12.6,3.2,45,38,20,Sunday,22:00,8,Experiment
+
+V21,CompetitorC,1,The Psychology of Thumbnails,Human brain graphic arrow,210000,14.8,8.4,86,80,71,Thursday,16:00,13,Education
+V22,CompetitorC,1,Why Your First 30 Seconds Matter,Timer icon bold 30 SEC,175000,13.2,7.9,90,85,74,Saturday,11:30,10,Tutorial
+V23,CompetitorC,1,I Changed One Thing Instant Growth,Before after arrow upward,260000,15.5,9.2,88,82,76,Friday,18:00,12,CaseStudy
+V24,CompetitorC,1,Posting Daily Is Overrated,Text UNPOPULAR OPINION,95000,8.7,4.0,55,48,32,Monday,21:00,14,Commentary
+V25,CompetitorC,1,This Video Should Have Gone Viral,Confused face question marks,32000,7.1,6.8,78,72,58,Tuesday,01:00,11,Explainer
+
+V26,CompetitorD,1,How I Script My Videos,Notebook arrows highlighted,145000,12.4,7.2,81,75,60,Wednesday,18:00,12,Tutorial
+V27,CompetitorD,1,Why Viewers Click Then Leave,Split happy sad faces,67000,10.1,3.5,48,40,22,Sunday,20:00,9,Analysis
+V28,CompetitorD,1,My Best Upload Time Revealed,Clock icon bold arrow,158000,13.0,6.9,79,72,55,Thursday,17:30,10,Explainer
+V29,CompetitorD,1,Editing Faster Than Ever,Speed lines stopwatch,92000,9.3,5.8,70,63,46,Friday,18:45,11,Tutorial
+V30,CompetitorD,1,This Format Always Wins,Highlighted template outline,180000,14.0,8.0,85,79,68,Saturday,10:00,12,CaseStudy
+
+V31,CompetitorE,1,Why I Lost Subscribers,Down arrow sad face,48000,6.8,3.0,44,36,20,Monday,22:30,10,Commentary
+V32,CompetitorE,1,YouTube SEO Does This,Search bar highlight,125000,11.5,6.7,77,70,54,Tuesday,16:00,11,Tutorial
+V33,CompetitorE,1,The Perfect Video Length,Timeline ruler graphic,138000,12.2,7.1,80,74,59,Thursday,15:00,12,Education
+V34,CompetitorE,1,Why Your Videos Feel Boring,Flat face gray colors,51000,7.5,3.3,46,38,24,Sunday,21:00,9,Analysis
+V35,CompetitorE,1,How I Study My Analytics,Dashboard arrows highlight,99000,10.9,6.4,73,66,50,Wednesday,19:00,11,Education
+
+V36,CompetitorF,1,This Intro Hooks Everyone,Explosion text HOOK,190000,14.6,8.6,89,83,72,Saturday,11:00,13,Tutorial
+V37,CompetitorF,1,Why My CTR Is Low,Plain text no face,36000,5.9,4.1,62,55,39,Tuesday,23:00,10,Commentary
+V38,CompetitorF,1,How to Beat Big Creators,Small vs big comparison,155000,12.7,7.5,82,76,63,Friday,17:30,12,Strategy
+V39,CompetitorF,1,This Mistake Kills Retention,Red X timeline graph,88000,9.8,5.2,66,59,41,Thursday,18:15,11,Explainer
+V40,CompetitorF,1,I Tested 5 Thumbnails,Five options grid layout,167000,13.9,7.8,84,78,67,Saturday,10:30,12,Experiment
+
+V41,CompetitorG,1,Why Late Uploads Fail,Clock moon icon,42000,6.4,2.9,40,33,18,Monday,01:30,9,Analysis
+V42,CompetitorG,1,How I Plan Content Monthly,Calendar arrows notes,104000,11.3,6.5,75,69,53,Tuesday,17:00,11,Education
+V43,CompetitorG,1,This Video Pattern Works,Repeated template overlay,162000,13.1,7.9,83,77,66,Friday,18:00,12,CaseStudy
+V44,CompetitorG,1,Why Trends Die Fast,Trending arrow fading,71000,8.8,4.4,58,51,36,Sunday,20:30,10,Commentary
+V45,CompetitorG,1,How I Improved Watch Time,Graph rising green arrow,134000,12.5,7.2,79,73,60,Thursday,16:30,11,Tutorial
+
+V46,CompetitorH,1,This Title Made Me Curious,Big question mark face,92000,10.6,6.1,74,68,52,Wednesday,18:00,10,Experiment
+V47,CompetitorH,1,Why Viewers Skip Intros,Skip button red icon,118000,11.9,6.8,78,72,56,Saturday,11:45,11,Analysis
+V48,CompetitorH,1,How I Increased Retention,Retention graph highlight,165000,13.3,8.1,86,80,69,Friday,17:45,12,Tutorial
+V49,CompetitorH,1,My Worst Performing Video,Blurred thumbnail dull text,27000,5.2,2.6,39,31,16,Monday,23:50,8,Commentary
+V50,CompetitorH,1,What Viewers Really Want,Audience faces thought bubble,148000,12.8,7.6,82,76,64,Thursday,16:00,12,Education
